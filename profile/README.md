@@ -7,5 +7,5 @@ Le but du serveur est de rassembler la communauté de NexanMC sur un serveur ouv
 Vous pouvez jouer sur le serveur gratuitement avec vos amis, faire des connaissances, et découvrir une expérience de jeu Inédite !
 
 ### Reseaux Sociaux
-- [Discord](https://discord.com)
+- [Discord](https://dsc.gg/nexalia)
 - [Twitter](https://twitter.com)
